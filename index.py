@@ -6,5 +6,5 @@ def fun(a,b):
     return a+b
 
 display()
-print("addition")
-print(fun(2,3))
+
+print("Addition: ",fun(2,3))
